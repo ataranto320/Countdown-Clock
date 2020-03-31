@@ -20,7 +20,7 @@ function timer(seconds) {
         }
         // display it
         // console.log(secondsLeft);
-        displayTimeLeft.log(secondsLeft);
+        displayTimeLeft(secondsLeft);
     }, 1000);
 }
 
